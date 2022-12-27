@@ -32,5 +32,4 @@ step2:write in "package.json"
 "start": "concurrently npm:start:\*"
 }
 
-step3:Due to "npm start" command and in one terminal we will run the "node main.js" and "tsc -w"
-npm start
+step3: Run "npm start" command and in one terminal we will run the "node main.js" and "tsc -w"
