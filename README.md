@@ -20,7 +20,7 @@ tsc -w (second is the typescript)
 
 when you want to run both the command in one terminal
 
-step1:
+step1: install the package
 
 npm add concurrently
 
